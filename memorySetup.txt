@@ -16,3 +16,12 @@ temp computation space
 11-20
 permanent variable space
 21-
+
+
+
+
+
+
+
+
+  memory[ instruction[memory[eip]+1]+instruction[memory[eip]+2] ] = memory[ instruction[memory[eip]+3]+instruction[memory[eip]+4] ] #mov
